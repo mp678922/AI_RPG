@@ -21,7 +21,7 @@
 
 下載[規則書](https://github.com/mp678922/AI_RPG/releases/tag/%E8%A6%8F%E5%89%87%E6%9B%B8) 。
 
-至[Grok](https://grok.com/?referrer=website)一次連續上傳所有規則書文件，直接開始遊戲。
+至[Grok](https://grok.com/?referrer=website)一次上傳所有規則書文件，直接開始遊戲。
 
 -------------------------------------------------------
 
