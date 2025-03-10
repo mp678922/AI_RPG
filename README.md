@@ -19,9 +19,9 @@
 
 如何遊玩這個腳本？
 
-下載[規則書](https://github.com/mp678922/AI_RPG/releases/tag/%E8%A6%8F%E5%89%87%E6%9B%B8) 。
+下載[規則書](https://github.com/mp678922/AI_RPG/releases/tag/%E8%A6%8F%E5%89%87%E6%9B%B8) ，將文件解壓縮至您的電腦。
 
-至[Grok](https://grok.com/?referrer=website)一次上傳所有規則書文件，送出將開始遊戲。
+至[Grok](https://grok.com/?referrer=website)一次上傳所有解壓縮後的規則書文件，送出將開始遊戲。
 
 -------------------------------------------------------
 
