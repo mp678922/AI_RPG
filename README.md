@@ -5,4 +5,5 @@
 
 ## 給玩家
 如何遊玩這個腳本？
-下載
+下載(https://github.com/mp678922/AI_RPG/releases/tag/%E8%A6%8F%E5%89%87%E6%9B%B8) 規則書
+
