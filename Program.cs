@@ -10,7 +10,7 @@ class Program {
     static void Main(string[] args) {
         try {
             // 新增 combine 變數
-            bool combine = true; // 可根據需求設為 true 或 false
+            bool combine = false; // 可根據需求設為 true 或 false
 
             // 獲取當前目錄
             string currentDirectory = Directory.GetCurrentDirectory();
